@@ -34,7 +34,7 @@ def main ():
 
 
     # @var huggingface_model String Load the base model
-    huggingface_model = 'DeepESP/gpt2-spanish'
+    huggingface_model = 'dccuchile/bert-base-spanish-wwm-cased'
 
 
     # @var tokenizer AutoTokenizer
